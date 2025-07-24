@@ -27,7 +27,7 @@ Below the references for the CNS program application
 </details>
 
 <br>
-Material and references for Velcoity Normatiive Modelling Project
+Additional Material for Velcoity Normatiive Modelling Project
 
 <br> 
 <p align="center">
