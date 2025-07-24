@@ -24,6 +24,7 @@ See here the [OHBM 2025 slide deck](https://github.com/likeajumprope/VelocityNor
 <br>
 See here the [OHBM 2025 original poster](https://github.com/user-attachments/files/21403590/OHBM_poster_2025.pdf)
 
+<br>
 
 <details>
 
