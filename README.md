@@ -2,7 +2,7 @@
 
 <details>
   
-<summary>References CNS program</summary>
+<summary>References CNS program (Click to expand)</summary>
 <br>
 Below the references for the CNS program application
 
@@ -26,7 +26,7 @@ Below the references for the CNS program application
 
 </details>
 
-<br><br><br><br><br>
+<br>
 Material and references for Velcoity Normatiive Modelling Project
 
 <br> 
