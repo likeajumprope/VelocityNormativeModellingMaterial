@@ -7,7 +7,10 @@ Material and references for Velcoity Normatiive Modelling Project
 
 <br>
 
+See here the [OHBM 2025 slide deck](https://github.com/likeajumprope/VelocityNormativeModellingMaterial/blob/main/OHBM_2025_Presenter_Slides_Johanna_pdf.pdf) 
+
 <details>
+
 
 <summary>References CNS program</summary>
 <br>
