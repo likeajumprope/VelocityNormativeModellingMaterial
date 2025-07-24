@@ -2,7 +2,7 @@
 
 <details>
   
-<summary>References CNS program (Click to expand)</summary>
+<summary>References CNS program (Click to Expand)</summary>
 <br>
 Below the references for the CNS program application
 
