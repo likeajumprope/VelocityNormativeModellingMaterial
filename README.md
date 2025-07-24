@@ -33,9 +33,10 @@ See here the [OHBM 2025 original poster](https://github.com/user-attachments/fil
 <summary>References CNS program</summary>
 <br>
 Below the references for the CNS program application
+
 <br>
 
-GBD 2016 Parkinson’s Disease Collaborators. Global, regional, and national burden of Parkinson’s disease, 1990-2016: a systematic analysis for the Global Burden of Disease Study 2016. Lancet Neurol. 17, 939–953 (2018).
+1. GBD 2016 Parkinson’s Disease Collaborators. Global, regional, and national burden of Parkinson’s disease, 1990-2016: a systematic analysis for the Global Burden of Disease Study 2016. Lancet Neurol. 17, 939–953 (2018).
 2.	Marquand, A. F. et al. Conceptualizing mental disorders as deviations from normative functioning. Mol. Psychiatry 24, 1415–1424 (2019).
 3.	Marquand, A. F., Rezek, I., Buitelaar, J. & Beckmann, C. F. Understanding Heterogeneity in Clinical Cohorts Using Normative Models: Beyond Case-Control Studies. Biol. Psychiatry 80, 552–561 (2016).
 4.	Bayer, J. M. M. et al. Dissecting heterogeneity in cortical thickness abnormalities in major depressive disorder: a large-scale ENIGMA MDD normative modelling study. bioRxivorg (2025) doi:10.1101/2025.03.17.643677.
