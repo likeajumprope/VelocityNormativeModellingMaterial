@@ -7,9 +7,7 @@ Material and references for Velcoity Normatiive Modelling Project
 
 <br>
 
-<img width="817" height="1000" alt="Screenshot 2025-07-23 at 15 48 30" src="https://github.com/user-attachments/assets/45fefc28-8de2-43aa-8e82-b9185dbc7413" />
-
-[Poster at OHBM 2025](https://github.com/user-attachments/assets/45fefc28-8de2-43aa-8e82-b9185dbc7413)
+<img width="407" height="542" alt="Screenshot 2025-07-24 at 10 17 27" src="https://github.com/user-attachments/assets/1c34cfc5-1e85-4a9a-aa84-61e219d394fd" />
 
 <br>
 
