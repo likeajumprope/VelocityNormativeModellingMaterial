@@ -15,6 +15,8 @@ Material and references for Velcoity Normatiive Modelling Project
 
 <br>
 
+See here the [full abstract](https://tinyurl.com/3sw4r5v4)
+
 See here the [OHBM 2025 slide deck](https://github.com/likeajumprope/VelocityNormativeModellingMaterial/blob/main/OHBM_2025_Presenter_Slides_Johanna_pdf.pdf) 
 <br>
 See here the [OHBM 2025 original poster](https://github.com/user-attachments/files/21403590/OHBM_poster_2025.pdf)
