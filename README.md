@@ -6,6 +6,9 @@ Material and references for Velcoity Normatiive Modelling Project
 <img width="817" height="542" alt="Screenshot 2025-07-23 at 15 48 30" src="https://github.com/user-attachments/assets/53b487c0-3add-44cb-9775-229f45065426" />
 
 <br>
+![Poster at OHBM 2025](https://github.com/user-attachments/assets/45fefc28-8de2-43aa-8e82-b9185dbc7413)
+
+<br>
 
 See here the [OHBM 2025 slide deck](https://github.com/likeajumprope/VelocityNormativeModellingMaterial/blob/main/OHBM_2025_Presenter_Slides_Johanna_pdf.pdf) 
 
