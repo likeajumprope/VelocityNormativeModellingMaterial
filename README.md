@@ -7,7 +7,7 @@ Material and references for Velcoity Normatiive Modelling Project
 
 <br>
 
-<img width="407" height="542" alt="Screenshot 2025-07-24 at 10 17 27" src="https://github.com/user-attachments/assets/1c34cfc5-1e85-4a9a-aa84-61e219d394fd" />
+<img align="center" width="407" height="542" alt="Screenshot 2025-07-24 at 10 17 27" src="https://github.com/user-attachments/assets/1c34cfc5-1e85-4a9a-aa84-61e219d394fd" />
 
 <br>
 
