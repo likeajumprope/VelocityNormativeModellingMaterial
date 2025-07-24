@@ -27,7 +27,9 @@ Below the references for the CNS program application
 </details>
 
 <br>
-Additional Material for Velcoity Normatiive Modelling Project
+<details>
+  
+<summary> Additional Material for Velcoity Normatiive Modelling Project (Click to Expand) </summary>
 
 <br> 
 <p align="center">
@@ -53,7 +55,7 @@ See here the [OHBM 2025 slide deck](https://github.com/likeajumprope/VelocityNor
 See here the [OHBM 2025 original poster](https://github.com/user-attachments/files/21403590/OHBM_poster_2025.pdf)
 
 <br>
-
+</details>
 
 
 
