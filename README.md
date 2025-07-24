@@ -1,5 +1,7 @@
 # VelocityNormativeModellingMaterial
 
+<details>
+  
 <summary>References CNS program</summary>
 <br>
 Below the references for the CNS program application
@@ -52,7 +54,7 @@ See here the [OHBM 2025 original poster](https://github.com/user-attachments/fil
 
 <br>
 
-<details>
+
 
 
 
